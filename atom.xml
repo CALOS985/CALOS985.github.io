@@ -2,13 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://CALOS985.github.io</id>
     <title>卡洛研究所</title>
-    <updated>2020-08-09T09:58:45.986Z</updated>
+    <updated>2020-08-09T10:29:55.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://CALOS985.github.io"/>
     <link rel="self" href="https://CALOS985.github.io/atom.xml"/>
     <subtitle>头条关注【卡洛研究所】
+
+
 公众号【白科技资源库】
-本博客内容会逐步更新。</subtitle>
+
+本博客内容会逐步更新。
+
+扫描下方二维码关注公众号。</subtitle>
     <logo>https://CALOS985.github.io/images/avatar.png</logo>
     <icon>https://CALOS985.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 卡洛研究所</rights>
