@@ -2,14 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://CALOS985.github.io</id>
     <title>卡洛研究所</title>
-    <updated>2020-08-12T10:28:58.779Z</updated>
+    <updated>2020-08-12T11:21:30.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://CALOS985.github.io"/>
     <link rel="self" href="https://CALOS985.github.io/atom.xml"/>
-    <subtitle>欢迎访问卡洛斯的博客，扫描屏幕上的二维码关注我的公众号哦，点击下方按钮也可以找到我。</subtitle>
+    <subtitle>欢迎访问卡洛斯的博客，扫描屏幕上的二维码关注我的公众号哦，点击下方按钮也可以找到我。如果下方文章无法查看，可以点击左上角，选择归档。</subtitle>
     <logo>https://CALOS985.github.io/images/avatar.png</logo>
     <icon>https://CALOS985.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 卡洛研究所</rights>
+    <entry>
+        <title type="html"><![CDATA[有了这个Windows装机教程，你也可以对朋友说：你在教我做事？]]></title>
+        <id>https://CALOS985.github.io/post/you-liao-zhe-ge-windows-zhuang-ji-jiao-cheng-ni-ye-ke-yi-dui-peng-you-shuo-ni-zai-jiao-wo-zuo-shi/</id>
+        <link href="https://CALOS985.github.io/post/you-liao-zhe-ge-windows-zhuang-ji-jiao-cheng-ni-ye-ke-yi-dui-peng-you-shuo-ni-zai-jiao-wo-zuo-shi/">
+        </link>
+        <updated>2020-08-12T10:54:16.000Z</updated>
+        <content type="html"><![CDATA[<p>最详细的win10安装教程看不懂你来打我</p>
+<p>windows的系统是我们学习，生活中经常会接触到的PC端操作之一而一台电脑的操作系统难免会出现各种各样的问题，会影响到我们正常使用</p>
+<p>虽然许多用户每天都在使用win10系统但难免有些用户不知道怎么给自己的电脑装个系统</p>
+<p>win10系统安装其实非常简单使用一个U盘就能完成，接下来我把安装教程分享给大家</p>
+<p>安装工具：1.一台正常开机、联网的电脑，最低win7系统2.一个最小容量为8G的U盘，最好使用USB3.0的，因为这样可以提升安装速度，以及性能，使用前要将U盘格式化</p>
+<p>3.最重要的是你要有个聪明的脑子</p>
+<p>教程开始咯<br>
+第一步：首先打开浏览器，输入：下载windows10，然后回车找到这一条<br>
+<img src="https://CALOS985.github.io/post-images/1597230013198.png" alt="" loading="lazy"><br>
+有了这个Windows装机教程，你也可以对朋友说：你在教我做事？<br>
+第二步：进入windows官方下载网站后，找到官方u盘制作工具进行下载<br>
+<img src="https://CALOS985.github.io/post-images/1597230025371.jpg" alt="" loading="lazy"><br>
+有了这个Windows装机教程，你也可以对朋友说：你在教我做事？<br>
+第三步，工具下载完成后插入u盘，确认U盘能正常使用，然后点开下载好的工具<br>
+<img src="https://CALOS985.github.io/post-images/1597230056387.png" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230065549.jpg" alt="" loading="lazy"><br>
+第四步，点开u盘制作工具，看到的是这个界面然后点击接受，选择为另一台电脑创建安装介质，点击下一步，对这台电脑使用推荐的选项，点击下一步，选择使用的介质U盘，点击下一步，选择使用的u盘，然后静静的等待，这个时间可能有一点久。制作完成后我们点击完成，安装工具会自动清理后台并退出，到这里我们的系统U盘就制作完成<br>
+<img src="https://CALOS985.github.io/post-images/1597230102474.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230118457.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230137875.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230163485.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230175170.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230191928.jpg" alt="" loading="lazy"><br>
+第五步，打开u盘，检查安装文件是否完整。完整就可以开始安装系统了<br>
+<img src="https://CALOS985.github.io/post-images/1597230218664.jpg" alt="" loading="lazy"></p>
+<p>第六步，将电脑关机，因为系统在U盘里面，所以我们开机的时候要主动选择它，我给大家提供几个主流品牌主板的启动项快捷键，技嘉F12、微星F11、华硕F8，在开机过程中，不断的敲击对应启动快捷键，直到进入启动项选择窗口为止<br>
+<img src="https://CALOS985.github.io/post-images/1597230368288.jpg" alt="" loading="lazy"><br>
+第七步，我们选择UEFI开头的，单击鼠标左键进入<br>
+这里选项无需更改，直接进入下一步<br>
+<img src="https://CALOS985.github.io/post-images/1597230389311.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230402668.jpg" alt="" loading="lazy"><br>
+第八步，这里点击直接安装就行<br>
+<img src="https://CALOS985.github.io/post-images/1597230418989.jpg" alt="" loading="lazy"></p>
+<p>第九步，这里有密钥就填这里，没有直接点击我没有密钥就行<br>
+<img src="https://CALOS985.github.io/post-images/1597230438440.jpg" alt="" loading="lazy"><br>
+第十步，这里选择你需要的系统，推荐使用家庭版或者专业版<br>
+<img src="https://CALOS985.github.io/post-images/1597230454828.jpg" alt="" loading="lazy"><br>
+第十一步，许可条款这里直接勾选接受并点击下一步</p>
+<p><img src="https://CALOS985.github.io/post-images/1597230484629.jpg" alt="" loading="lazy"><br>
+第十二步，这里选择自定义安装，接着选择系统主分区，也就是我们俗称的c盘，我这里是一块全新未分区的硬盘，所以要先分区再安装，首先选择我们需要安装系统的硬盘点击新建，大小这里是我们即将分出C盘的大小一般建议60-80G就行，我的是分了60G，点击应用。他会弹窗告知要为系统文件创建额外分区点击确定就行<br>
+<img src="https://CALOS985.github.io/post-images/1597230503754.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230514971.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230544234.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230552699.jpg" alt="" loading="lazy"><br>
+第十三步，分区完成后可以看到我们刚分的60G主分区和额外分区，我们选择主分区，然后点击下一步，到了这里就开始向C盘安装系统了，你只需要静静的等着就行<br>
+<img src="https://CALOS985.github.io/post-images/1597230571880.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230591824.jpg" alt="" loading="lazy"><br>
+第十四步，安装完成后会出现10秒的倒计时，提示电脑即将重启，这个时候就可以将U盘拔出来，我们也用不到了，接下来也是相当长的一段时间等待，期间会加载几分钟，并且反复重启2-3次电脑，这属于正常现象。<br>
+<img src="https://CALOS985.github.io/post-images/1597230617691.png" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230636965.png" alt="" loading="lazy"><br>
+第十五步，现在我们看到的是对系统基础功能的设置，选择对应区域后我们选择是，键盘布局选择五笔或者拼音选择好后点击是，第二种键盘布局直接点击跳过，然后选择针对个人进行设置，点击下一步，<br>
+<img src="https://CALOS985.github.io/post-images/1597230652187.png" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230665703.png" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230697670.jpg" alt="" loading="lazy"><br>
+第十六步，这里的登录是登录微软账号，有就登录，没有就点击左下角脱机账户就能跳过该步骤。再次询问是否登录微软账号点击否。输入账户名后点击下一步。<br>
+<img src="https://CALOS985.github.io/post-images/1597230716669.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230739925.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597230750524.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597231064139.jpg" alt="" loading="lazy"><br>
+第十七步，这个密码就是我们的开机密码，如果不行设置直接点击下一步。剩下几项设置没什么用，随便设置就行。<br>
+<img src="https://CALOS985.github.io/post-images/1597231085039.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597231096501.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597231108019.jpg" alt="" loading="lazy"><br>
+最后一步啦，接下来是短暂的等待时间，看到了熟悉的桌面我们的系统就安装完了。</p>
+<p><img src="https://CALOS985.github.io/post-images/1597231125889.jpg" alt="" loading="lazy"><br>
+<img src="https://CALOS985.github.io/post-images/1597231140853.jpg" alt="" loading="lazy"></p>
+<p>喜欢本教程的可以关注波公众号<br>
+<img src="https://CALOS985.github.io/post-images/1597231183611.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓党看视频必备4种工具，注意结合，打遍天下无敌手]]></title>
         <id>https://CALOS985.github.io/post/an-zhuo-dang-kan-shi-pin-bi-bei-4-chong-gong-ju-zhu-yi-jie-he-da-bian-tian-xia-wu-di-shou/</id>
