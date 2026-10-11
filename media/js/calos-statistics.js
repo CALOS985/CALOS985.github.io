@@ -22,7 +22,7 @@
   }
 
   if (root.dataset.visits !== 'true') return;
-  const values = ['vercount_value_site_uv', 'vercount_value_site_pv'].map(id => document.getElementById(id));
+  const values = ['busuanzi_value_site_uv', 'busuanzi_value_site_pv'].map(id => document.getElementById(id));
   const host = location.hostname.toLowerCase();
   const local = !/^https?:$/.test(location.protocol) || host === 'localhost' || host.endsWith('.localhost') ||
     host === '::1' || host === '[::1]' || /^127\./.test(host) || /^10\./.test(host) || /^192\.168\./.test(host) ||
@@ -47,7 +47,7 @@
   });
   values.forEach(value => { if (value) observer.observe(value, { childList: true, characterData: true, subtree: true }); });
   const script = document.createElement('script');
-  script.src = 'https://events.vercount.one/js';
+  script.src = 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
   script.defer = true;
   script.onerror = unavailable;
   document.head.append(script);
